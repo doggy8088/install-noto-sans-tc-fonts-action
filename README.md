@@ -6,7 +6,6 @@
 
 - 僅支援 Linux runner，且需要 `apt` 與 `sudo` 權限 (例如 Ubuntu / Debian 系)。
 - GitHub-hosted Ubuntu runners (已於 CI 測試)：
-  - `ubuntu-20.04`
   - `ubuntu-22.04`
   - `ubuntu-24.04`
   - `ubuntu-latest`
